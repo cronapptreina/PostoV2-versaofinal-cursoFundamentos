@@ -64,7 +64,7 @@ public class Posto implements Serializable {
   /**
   * @generated
   */
-  @Column(name = "bairroi", nullable = true, unique = false, insertable=true, updatable=true)
+  @Column(name = "bairro", nullable = true, unique = false, insertable=true, updatable=true)
   
   private java.lang.String bairro;
 
