@@ -447,5 +447,15 @@
     "valor": "220.00",
      "carro": { "id" :"7ad4393a-d4f7-11e7-9296-cec278b6b50a" },
     "posto": { "id" :"7ad455be-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "6eb1376a-d6a1-11e7-9296-cec278b6b50a",
+    "data": "2017-12-01",
+    "km": "110",
+    "precoLitro": "3.87",
+    "valor": "200.00",
+     "carro": { "id" :"7ad4393a-d4f7-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad455be-d4f7-11e7-9296-cec278b6b50a" }
   }
 ]
