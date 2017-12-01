@@ -357,5 +357,95 @@
     "valor": "150.00",
      "carro": { "id" :"7ad43872-d4f7-11e7-9296-cec278b6b50a" },
     "posto": { "id" :"7ad440ba-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "6eb0fb10-d6a1-11e7-9296-cec278b6b50a",
+    "data": "2017-02-02",
+    "km": "120",
+    "precoLitro": "4.10",
+    "valor": "350.00",
+     "carro": { "id" :"7ad4549c-d4f7-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad419fa-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "6eb1047a-d6a1-11e7-9296-cec278b6b50a",
+    "data": "2017-03-12",
+    "km": "96",
+    "precoLitro": "3.10",
+    "valor": "100.00",
+     "carro": { "id" :"7ad4393a-d4f7-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad41ce8-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "6eb10740-d6a1-11e7-9296-cec278b6b50a",
+    "data": "2017-04-13",
+    "km": "106",
+    "precoLitro": "3.85",
+    "valor": "260.00",
+     "carro": { "id" :"7ad43872-d4f7-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad428f0-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "6eb1088a-d6a1-11e7-9296-cec278b6b50a",
+    "data": "2017-04-13",
+    "km": "106",
+    "precoLitro": "3.85",
+    "valor": "260.00",
+     "carro": { "id" :"1350b6d2-d50e-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad4308e-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "6eb1088a-d6a1-11e7-9296-cec278b6b50a",
+    "data": "2017-04-13",
+    "km": "106",
+    "precoLitro": "3.85",
+    "valor": "260.00",
+     "carro": { "id" :"1350b6d2-d50e-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad4308e-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "6eb10b28-d6a1-11e7-9296-cec278b6b50a",
+    "data": "2017-05-08",
+    "km": "10",
+    "precoLitro": "3.87",
+    "valor": "20.00",
+     "carro": { "id" :"1350b6d2-d50e-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad436d8-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "6eb11168-d6a1-11e7-9296-cec278b6b50a",
+    "data": "2017-07-21",
+    "km": "95",
+    "precoLitro": "3.92",
+    "valor": "150.00",
+     "carro": { "id" :"1350b862-d50e-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad440ba-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "",
+    "data": "2017-10-13",
+    "km": "52",
+    "precoLitro": "3.87",
+    "valor": "50.00",
+     "carro": { "id" :"7ad4549c-d4f7-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad446e6-d4f7-11e7-9296-cec278b6b50a" }
+  },
+  {
+  "_class": "app.entity.Abastecimento",
+    "id": "6eb113fc-d6a1-11e7-9296-cec278b6b50a",
+    "data": "2017-11-07",
+    "km": "112",
+    "precoLitro": "3.95",
+    "valor": "220.00",
+     "carro": { "id" :"7ad4393a-d4f7-11e7-9296-cec278b6b50a" },
+    "posto": { "id" :"7ad455be-d4f7-11e7-9296-cec278b6b50a" }
   }
 ]
